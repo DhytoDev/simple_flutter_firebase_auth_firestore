@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1023894603016",
+    "firebase_url": "https://konsulmeki.firebaseio.com",
+    "project_id": "konsulmeki",
+    "storage_bucket": "konsulmeki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023894603016:android:2f25efc426c01460",
+        "android_client_info": {
+          "package_name": "id.konsul.konsul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023894603016-uf1rk3qnqof4sj0ntetadb47fhc7msn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNGSSV0LinfvJtjE6wDOb4tGNXGkr_Wyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023894603016:android:2eb39ba79f8053e1",
+        "android_client_info": {
+          "package_name": "ikramdev.konsulmeki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023894603016-uf1rk3qnqof4sj0ntetadb47fhc7msn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNGSSV0LinfvJtjE6wDOb4tGNXGkr_Wyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
